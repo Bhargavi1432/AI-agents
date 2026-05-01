@@ -62,4 +62,4 @@ async function agent(userInput) {
 
 
 
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=your_api_key_heresk-proj-6glvqlty_rUDzTfE-CrYDfQtqSYi4PTbQstRnfe9cba4aTxSprD53RgSkzHOaH5CG5MeNc_LtFT3BlbkFJMMb0grKl8uPRsV2E99VFcoUqTamtthUBxQGfvUyNSIEgSjHmDhc1KcELaSUawIYmrNFVwJ0eQAhellirgg
